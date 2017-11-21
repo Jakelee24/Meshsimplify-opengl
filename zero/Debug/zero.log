@@ -1,0 +1,44 @@
+﻿  vertexGroup.cpp
+  vertex.cpp
+  vector4.cpp
+  solve.cpp
+  myVec3d.cpp
+  model3d.cpp
+model3d.cpp(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+model3d.cpp(141): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+model3d.cpp(148): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+model3d.cpp(157): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+model3d.cpp(166): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+model3d.cpp(176): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  meshSimplify.cpp
+meshSimplify.cpp(75): warning C4018: '<': signed/unsigned mismatch
+meshSimplify.cpp(85): warning C4018: '<': signed/unsigned mismatch
+meshSimplify.cpp(128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  matrix.cpp
+  main.cpp
+main.cpp(98): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+main.cpp(98): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+main.cpp(78): warning C4101: 'i': unreferenced local variable
+  edgeHeap.cpp
+  edge.cpp
+  deformer.cpp
+  config.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Vector4f.cpp
+  Vector3f.cpp
+  Vector2f.cpp
+  Quat4f.cpp
+  Matrix4f.cpp
+  Matrix3f.cpp
+  Matrix2f.cpp
+FileTracker : error FTK1013: 在檔案追蹤記錄檔 C:\Users\Jake Lee\Documents\Workspace\zero\Debug\zero.tlog\CL.read.1.tlog 中找不到 Unicode 位元組順序標記。追蹤資料無效。
+  
+FileTracker : error FTK1013: 在檔案追蹤記錄檔 C:\Users\Jake Lee\Documents\Workspace\zero\Debug\zero.tlog\CL.write.1.tlog 中找不到 Unicode 位元組順序標記。追蹤資料無效。
+  

@@ -1,0 +1,18 @@
+﻿  main.cpp
+main.cpp(105): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+main.cpp(105): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+main.cpp(85): warning C4101: 'i': unreferenced local variable
+main.cpp(346): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  meshSimplify.cpp
+meshSimplify.cpp(233): warning C4018: '<=': signed/unsigned mismatch
+meshSimplify.cpp(262): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+meshSimplify.cpp(264): warning C4018: '<=': signed/unsigned mismatch
+meshSimplify.cpp(269): warning C4018: '<=': signed/unsigned mismatch
+meshSimplify.cpp(279): warning C4018: '<=': signed/unsigned mismatch
+meshSimplify.cpp(296): warning C4018: '<': signed/unsigned mismatch
+meshSimplify.cpp(305): warning C4018: '<': signed/unsigned mismatch
+meshSimplify.cpp(353): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  zero.vcxproj -> C:\Users\Jake Lee\Documents\Exercise_Project\zero\Release\zero.exe
+  zero.vcxproj -> C:\Users\Jake Lee\Documents\Exercise_Project\zero\Release\zero.pdb (Full PDB)
