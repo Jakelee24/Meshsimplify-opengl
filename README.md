@@ -7,5 +7,3 @@ This project is base on the [MIT OpenCourseWare](https://ocw.mit.edu/courses/ele
 ### Run Code
 Plaese use the Visual Studio 2015, and open up the sln, compile it, and you are ready to go.
 
-### Quadric Error Metrics
-
